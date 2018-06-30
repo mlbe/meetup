@@ -4,5 +4,5 @@
 
 Talks
 
-- Florian Lüscher & Matthias Brun, dsi engineering AG: [Applied Machine Learning](./Slides/Meetup - Applied Machine Learning.pdf)
+- Florian Lüscher & Matthias Brun, dsi engineering AG, [Applied Machine Learning](./Slides/Meetup_Applied_Machine Learning.pdf)
 - Michael Stauffer, FHNW & Uni Fr, [Graph-based Pattern Recognition - Example Application Keyword Spotting](./Slides/Michael_Stauffer_Graph_Based_PR.pdf)
