@@ -5,4 +5,4 @@
 Talks
 
 - Andreas Gutweniger [puenktlichkeit.ch](./Slides/Verspaetungsprognose_AI_MeetupBern_20180827.pdf)
-- Christophe L [Klassifizierung von Sound-Events mit CNN](./Slides/)
+- Christophe L [Klassifizierung von Sound-Events mit CNN](./Slides/SLIDES_20180827_Meetup_ML_AI_SoundClassification.pdf)
