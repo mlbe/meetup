@@ -1,6 +1,9 @@
 # Machine Learning & Artificial Intelligence Meetup Bern
 
 ### Past Events
+- [Meetup 26.08.2019](Meetup_20180826)
+  - Chatbot – Der Weg zum intelligenten digitalen Assistenten
+  - Deep Learning in Ophthalmologie
 - [Meetup 29.04.2019](Meetup_20190429)
   - Unsupervised Anomaly Detection for Streaming Applications
   - Natural Language Processing and Deep Learning for Medical Diagnosis Prediction
@@ -16,3 +19,4 @@
 - [Meetup 18.06.2018](Meetup_20180618)
   - Applied Machine Learning
   - Graph-based Pattern Recognition
+
