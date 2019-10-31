@@ -5,4 +5,4 @@ https://www.meetup.com/Machine-Learning-Artificial-Intelligence-Meetup-Bern/even
 Talks
 
 - [Continuous Integration of Machine Learning](CI-ML-Models.pdf) - Cédric Renggli, ETH Zurich
-- Machine Learning in Radiology - Raphael Meier, Insel
+- [Machine Learning in Radiology](ml-radiology.pdf) - Raphael Meier, Insel
