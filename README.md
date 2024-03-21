@@ -1,11 +1,12 @@
 # Machine Learning & Artificial Intelligence Meetup Bern
 
 ### Past Events
-
+- [Meetup 20.03.2023](Meetup_20240320)
+  - The landscape of open LLMs
+  - Using Synthetic Data for Privacy-Conscious Speech Moderation
 - [Meetup 28.10.2019](Meetup_20191028)
   - Continuous Integration of Machine Learning
   - Machine Learning in Radiology
-
 - [Meetup 26.08.2019](Meetup_20180826)
   - Chatbot – Der Weg zum intelligenten digitalen Assistenten
   - Deep Learning in Ophthalmologie
