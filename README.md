@@ -1,7 +1,7 @@
 # Machine Learning & Artificial Intelligence Meetup Bern
 
 ### Past Events
-- [Meetup 20.03.2023](Meetup_20240320)
+- [Meetup 20.03.2024](Meetup_20240320)
   - The landscape of open LLMs
   - Using Synthetic Data for Privacy-Conscious Speech Moderation
 - [Meetup 28.10.2019](Meetup_20191028)
