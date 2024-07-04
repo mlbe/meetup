@@ -1,6 +1,8 @@
 # Machine Learning & Artificial Intelligence Meetup Bern
 
 ### Past Events
+- [Meetup 03.07.2024](Meetup_20240703)
+  - Jan Badertscher - Better than GPT-4 for Coding
 - [Meetup 20.03.2024](Meetup_20240320)
   - The landscape of open LLMs
   - Using Synthetic Data for Privacy-Conscious Speech Moderation
