@@ -1,6 +1,11 @@
 # Machine Learning & Artificial Intelligence Meetup Bern
 
 ### Past Events
+- [Meetup 01.09.2025](Meetup_20250901)
+  - Paola Bianchi - Agentic AI in the Real World: Patterns, Pitfalls, and Production Readiness
+  - Nico Martin - look ma,no hands!
+- [Meetup 27.01.2025](Meetup_20250127)
+  - Hasan Atak -ai trends and predictions for 2025
 - [Meetup 03.07.2024](Meetup_20240703)
   - Jan Badertscher - Better than GPT-4 for Coding
 - [Meetup 20.03.2024](Meetup_20240320)

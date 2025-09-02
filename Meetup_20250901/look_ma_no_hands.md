@@ -1,0 +1,1 @@
+https://slides.nico.dev/250901-no-hands-ai-ml-bern/#/
