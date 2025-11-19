@@ -1,6 +1,9 @@
 # Machine Learning & Artificial Intelligence Meetup Bern
 
 ### Past Events
+- [Meetup 10.11.2025](Meetup_20251110)
+  - Michael Bieri - Neue Wege im Politmonitoring: Generative KI im Einsatz mit offenen Parlamentsdaten
+  - Dimitris Andreadis - Crafting Intelligent Applications with Quarkus/LangChain4j
 - [Meetup 01.09.2025](Meetup_20250901)
   - Paola Bianchi - Agentic AI in the Real World: Patterns, Pitfalls, and Production Readiness
   - Nico Martin - look ma,no hands!
