@@ -1,7 +1,11 @@
 # Machine Learning & Artificial Intelligence Meetup Bern
 
 ### Past Events
-<<<<<<< HEAD
+
+- [Meetup 26.01.2026](Meetup_20260126)
+  - Slides:
+    - [AI_ML_Meetup_Talk_01_Knowlede_Graph_Chatbot.pdf](Meetup_20260126/AI_ML_Meetup_Talk_01_Knowlede_Graph_Chatbot.pdf)
+    - [SpecDrivenDevelopment.md](Meetup_20260126/SpecDrivenDevelopment.md)
 - [Meetup 10.11.2025](Meetup_20251110)
   - Michael Bieri - Neue Wege im Politmonitoring: Generative KI im Einsatz mit offenen Parlamentsdaten
   <!--- Dimitris Andreadis - Crafting Intelligent Applications with Quarkus/LangChain4j-->
@@ -10,18 +14,6 @@
   - Nico Martin - look ma,no hands!
 - [Meetup 27.01.2025](Meetup_20250127)
   - Hasan Atak -ai trends and predictions for 2025
-=======
-
-- [Meetup 26.01.2026](Meetup_20260126)
-  - Slides:
-    - [AI_ML_Meetup_Talk_01_Knowlede_Graph_Chatbot.pdf](Meetup_20260126/AI_ML_Meetup_Talk_01_Knowlede_Graph_Chatbot.pdf)
-    - [SpecDrivenDevelopment.md](Meetup_20260126/SpecDrivenDevelopment.md)
-
-- [Meetup 27.01.2025](Meetup_20250127)
-  - Slides:
-    - [ai trends and predictions for 2025.pdf](Meetup_20250127/ai%20trends%20and%20predictions%20for%202025.pdf)
-
->>>>>>> master
 - [Meetup 03.07.2024](Meetup_20240703)
   - Jan Badertscher - Better than GPT-4 for Coding
   - Slides:
